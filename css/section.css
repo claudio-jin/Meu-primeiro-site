@@ -1,0 +1,57 @@
+
+.apresentacao{
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 30px 20px 30px 20px;
+    border-radius: 5px;
+    
+}
+.dicaDia,
+.promocoes, 
+.acessorios,
+.roupas, 
+.servicos 
+{
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    border-radius: 5px;
+
+}
+
+
+.agumon{
+    margin-left: 65%;
+    width: 200px;
+}
+
+.wargreymon {
+    width: 200px;
+    margin-left: 60%;
+}
+
+
+.digiVer,
+.digiRosa, 
+.digiAzul {
+    width: 25%;
+    padding-left: 0px;
+
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+.agumonRoupa
+ {
+    width: 200px;
+    margin-left: 60%;
+}
+
+
